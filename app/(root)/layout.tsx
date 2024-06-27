@@ -1,6 +1,4 @@
-
 import React, { ReactNode } from 'react'
-
 
 const RootLayout = ({children}: {children: ReactNode}) => {
   return (
@@ -11,4 +9,4 @@ const RootLayout = ({children}: {children: ReactNode}) => {
     </main>
   )
 }
-export default RootLayout;
+export default RootLayout
