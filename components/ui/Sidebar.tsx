@@ -1,5 +1,5 @@
 'use client'
-import { sidebarLinks } from '@/constant'
+import { sidebarLinks } from '@/constant';
 import { cn } from '@/lib/utils';
 import Image from 'next/image';
 import Link from 'next/link';
